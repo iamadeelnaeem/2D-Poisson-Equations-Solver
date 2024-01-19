@@ -1,0 +1,5 @@
+﻿  GaussSeidelSolver.cpp
+F:\Poisson Eq's Solvers\Guass-Seidel method\Poisson Equations\GaussSeidelSolver.cpp(15,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Poisson Equations.vcxproj -> F:\Poisson Eq's Solvers\Guass-Seidel method\x64\Debug\Poisson Equations.exe
